@@ -1,4 +1,4 @@
-# Aplicativo de contagem para Restaurante.
+# Aplicativo de contagem para Restaurante (Flutter).
 
 <div style="display: flex; justify-content: center;">
   <div style="width: 30%;">
